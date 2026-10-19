@@ -1,6 +1,6 @@
 # DAA Assignment 3 — Graphs, DSU, MST, SCC and DAG shortest paths
 
-**Student:** Taubakabyl Nurlybek  
+**Student:** Temujin Gonchar
 **Version:** 1.0  
 **Java:** 17+ | **Build:** Maven | **Tests:** JUnit 5
 
